@@ -8,9 +8,7 @@ Administrator for managing products and monitoring the system.
 Provider for ship products.
 Every user type has an account overview and management and register functionalities.
 
-#copyright
-Copyright 2015 DevWurm
-GPL 3 License (Read ./license/gpl-3.0.txt)
+
 
 #documentation
 documentation will be offered in the future
