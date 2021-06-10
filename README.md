@@ -23,11 +23,4 @@ documentation will be offered in the future
   username: root
   password: toor
   
-#collaborating
-you can use the github issue tracker for bugs and feature requests or create a pull request to submit changes.
-Forks are very welcome, too.
-If you don't want to use these possibilities, you can also write me an email at devwurm@gmx.net.
 
-#authors
-DevWurm <devwurm@gmx.net>
-Feel free to contact me, if you have any questions or ideas avout the project :)
